@@ -1,0 +1,10 @@
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\nfu_5200\bin\Debug\nfu_5200.exe.config
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\nfu_5200\bin\Debug\nfu_5200.exe
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\nfu_5200\bin\Debug\nfu_5200.pdb
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\nfu_5200\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\nfu_5200\obj\Debug\nfu_5200.csprojResolveAssemblyReference.cache
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\nfu_5200\obj\Debug\nfu_5200.Form1.resources
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\nfu_5200\obj\Debug\nfu_5200.Properties.Resources.resources
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\nfu_5200\obj\Debug\nfu_5200.csproj.GenerateResource.Cache
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\nfu_5200\obj\Debug\nfu_5200.exe
+C:\Users\HatsuneMiku\Source\Repos\NewRepo\get_web_table\nfu_5200\obj\Debug\nfu_5200.pdb
